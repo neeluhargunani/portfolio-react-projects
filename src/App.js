@@ -12,7 +12,7 @@ function App() {
     <Router>
   
    
-     <Route path="/Portfolio" exact component= {Portfolio}/>
+     <Route path="/" exact component= {Portfolio}/>
     <Route path ="/reactassignment" exact component={ReactAssignment}/>
     <Route  path ="/crudapplication" exact component={CrudApplication}/>
  

@@ -31,7 +31,7 @@ const ReactAssignment = () => {
  <div className="col-lg-12 col-xl-12 col-md-12 col-sm-12 text-center mt-5"><h3>Registration Form</h3></div>
  <div className="col-lg-9 col-xl-8 col-md-12 col-sm-12 m-auto"><Registration/></div></div></div>
  <div class="copyrights mt-5">
-  <h6 className="text-white">neelam_hargunani@persistent.com <span className="ml-3 text-info">9503836763</span>  <span className="ml-3"><Link to="/Portfolio" className="text-info">Back to portfolio</Link></span> </h6>
+  <h6 className="text-white">neelam_hargunani@persistent.com <span className="ml-3 text-info">9503836763</span>  <span className="ml-3"><Link to="/" className="text-info">Back to portfolio</Link></span> </h6>
 </div>
            
         </>
